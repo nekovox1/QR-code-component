@@ -11,11 +11,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 This is my first project with Frontend Mentor, its a basic static website using html and css. This QR code component is built mainly focusing on styling of a website. 
@@ -58,7 +56,6 @@ With building this component I improved my styling skills, and to make websites 
 ### Continued development
 
 I want to learn more about web design and how I can make websites look good and responsive.
-
 
 
 
