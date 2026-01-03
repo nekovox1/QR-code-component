@@ -28,8 +28,7 @@ This is my first project with Frontend Mentor, its a basic static website using 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [LIVE SITE](https://nekovox1.github.io/QR-code-component/)
 
 ## My process
 
